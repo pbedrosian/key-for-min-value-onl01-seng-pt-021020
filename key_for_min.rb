@@ -10,7 +10,7 @@ def key_for_min_value(name_hash)
     if lowest_name == nil or num < lowest_num
       lowest_name = name
       lowest_num = num
-binding.pry
+#binding.pry
   end
 end
   lowest_name
