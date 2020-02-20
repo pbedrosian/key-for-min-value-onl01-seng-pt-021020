@@ -9,7 +9,7 @@ def key_for_min_value(name_hash)
   name_hash.map do |name, num|
     if lowest_name == nil or num < lowest_num
       lowest_name = name
-      lowest_num = num 
+      lowest_num = num
 binding.pry
   end
 end
