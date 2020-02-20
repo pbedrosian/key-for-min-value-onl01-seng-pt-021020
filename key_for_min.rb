@@ -11,7 +11,7 @@ binding.pry
   end
 end
 
-# 
+#
 # def key_for_min_value(name_hash)
 #   name_hash.map do |name, num|
 #   if num <= 1
